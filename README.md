@@ -98,9 +98,6 @@ streamlit run app.py --server.port=8080 --server.address=0.0.0.0
 
 📅 Implement Best Price Predictions
 
-📜 License
-
-This project is licensed under the MIT License.
 
 🤝 Contributing
 
@@ -108,5 +105,5 @@ We welcome contributions! Feel free to open an issue or submit a pull request.
 
 📧 Contact
 
-For questions or support, contact your.email@example.com.
+For questions or support, contact shubhamhchavan31@gmail.com.
 
