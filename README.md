@@ -1,10 +1,10 @@
-✈️ AI-Powered Flight Booking Assistant
+****✈️ AI-Powered Flight Booking Assistant****
 
-🚀 Overview
+**🚀 Overview**
 
 AI-Powered Flight Booking Assistant is a Streamlit-based web application that helps users search for flights using Firecrawl API for web scraping and OpenAI models for intelligent recommendations. The app retrieves flight data from Skyscanner and provides insights on the best travel options based on price, duration, and layovers.
 
-🛠 Features
+**🛠 Features**
 
 🔍 Search Flights by entering origin, destination, date, number of travelers, and cabin class.
 
@@ -16,7 +16,7 @@ AI-Powered Flight Booking Assistant is a Streamlit-based web application that he
 
 🎨 Streamlit UI for an interactive experience.
 
-📥 Installation
+**📥 Installation**
 
 1️⃣ Clone the Repository
 
@@ -40,7 +40,7 @@ Or enter API keys directly in the Streamlit sidebar.
 
 streamlit run app.py
 
-🎮 Usage
+**🎮 Usage**
 
 Enter Origin & Destination (IATA codes) 🏢✈️.
 
@@ -56,15 +56,15 @@ Click 🔍 Search Flights to fetch results.
 View Flight Recommendations with price and duration insights.
 
 
-🚀 Deployment Options
+**🚀 Deployment Options**
 
-1️⃣ Streamlit Community Cloud (Easy & Free)
+*1️⃣ Streamlit Community Cloud (Easy & Free)*
 
 Push your code to GitHub.
 
 Deploy via Streamlit Cloud.
 
-2️⃣ Google Cloud Run
+*2️⃣ Google Cloud Run*
 
 Create a Dockerfile:
 
@@ -80,7 +80,7 @@ Build & deploy:
 gcloud builds submit --tag gcr.io/YOUR_PROJECT_ID/flight-agent
 gcloud run deploy flight-agent --image gcr.io/YOUR_PROJECT_ID/flight-agent --platform managed --allow-unauthenticated
 
-3️⃣ AWS EC2
+*3️⃣ AWS EC2*
 
 Launch an EC2 instance and SSH into it:
 
@@ -90,7 +90,7 @@ Install Python & Streamlit, then run:
 
 streamlit run app.py --server.port=8080 --server.address=0.0.0.0
 
-🔥 Future Enhancements
+*🔥 Future Enhancements*
 
 ✅ Add Round-Trip Booking
 
@@ -99,11 +99,11 @@ streamlit run app.py --server.port=8080 --server.address=0.0.0.0
 📅 Implement Best Price Predictions
 
 
-🤝 Contributing
+*🤝 Contributing*
 
 We welcome contributions! Feel free to open an issue or submit a pull request.
 
-📧 Contact
+*📧 Contact*
 
 For questions or support, contact shubhamhchavan31@gmail.com.
 
