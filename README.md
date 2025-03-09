@@ -53,6 +53,9 @@ Click 🔍 Search Flights to fetch results.
 ![{F96DC901-B210-4E32-B2D1-537B1793EFAB}](https://github.com/user-attachments/assets/33b99e62-9ccc-4fa0-b470-de97baef692d)
 
 
+![{45D79E10-D0D8-409A-BA08-AC58047E9D36}](https://github.com/user-attachments/assets/ab6b0b35-1290-4d5f-989c-43c599bc8c7c)
+
+
 View Flight Recommendations with price and duration insights.
 
 
